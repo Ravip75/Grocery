@@ -29,6 +29,9 @@
     "type": "git",
     "url": "https://github.com/Ravip75/Grocery.git"
   },
+  "bugs": {
+    "url": "https://github.com/Ravip75/Grocery/issues"
+  },
   "homepage": "https://github.com/Ravip75/Grocery#readme",
   "engines": {
     "node": "14.15.0",
